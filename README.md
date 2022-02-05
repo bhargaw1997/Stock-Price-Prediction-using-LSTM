@@ -1,8 +1,8 @@
 # STOCK PREDICTION USING LONG-SHORT TERM MEMORY
 
 Bhargaw Rajnikant Patel
-The University of Texas at Dallas
-Richardson, USA
+
+The University of Texas at Dallas, Richardson, USA
 
 ### Abstract
  An eccentric bent is a stock. The intricacy and unpredictability of financial exchange cover expectations. The key focus on the point's significance is to forecast future market stock solidity. Several scientists have completed their research on the future evolution of market development. Information
